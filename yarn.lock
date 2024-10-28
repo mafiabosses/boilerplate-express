@@ -5309,7 +5309,11 @@ utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz"
 
-uuid@^3.1.0, uuid@^3.2.1, uuid@^3.3.2, uuid@^3.3.3:
+uuid@^11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.0.1.tgz#a527e188c4c11a7ff5d139e59f229a9f90440669"
+
+uuid@^3.2.1, uuid@^3.3.2, uuid@^3.3.3:
   version "3.3.3"
   resolved "https://registry.npmjs.org/uuid/-/uuid-3.3.3.tgz"
 
